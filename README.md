@@ -1,5 +1,5 @@
-# SLU_Cpb2.0
-Supplementally data and materials of Western Painted Turtle (Chrysemys picta bellii) SLU_Cpb2.0 version
+# SLU_Cpb5.0
+Supplementally data and materials of Western Painted Turtle (Chrysemys picta bellii) SLU_Cpb5.0 version
 
 ## Tissue-spcific gtf files:
 - Brain_advanced.filtered.gtf
