@@ -35,3 +35,6 @@ Supplementally data and materials of Western Painted Turtle (Chrysemys picta bel
 - tama_merge_with_NCBI.gtf.gz
 - tama_merge_with_NCBI_gene_report.txt.gz
 - tama_merge_with_NCBI_trans_report.txt.gz
+
+## python script for 
+"To assign names to transcripts, the Iso-Seq annotation file was compared with the NCBI RefSeq annotation using homemade Python scripts "
